@@ -1036,6 +1036,8 @@ mod transfer_test;
 #[cfg(test)]
 mod ttl_test;
 #[cfg(test)]
+mod ttl_events_test;
+#[cfg(test)]
 mod signature_expiry_test;
 
 #[cfg(test)]
